@@ -1,0 +1,10 @@
+name          'lombardoja-notifyme'
+version       '0.1.0'
+source        'https://github.com/lombardoja/notifyme'
+author        'lombardoja'
+license       'Apache 2.0'
+summary       'Send notifications on puppet runs through multiple communication methods.'
+description   'Send notifications on puppet runs through multiple communication methods.'
+project_page  'https://github.com/lombardoja/notifyme'
+
+dependency 'puppetlabs/stdlib'

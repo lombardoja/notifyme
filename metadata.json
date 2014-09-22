@@ -1,0 +1,16 @@
+{
+  "name": "lombardoja-notifyme",
+  "version": "0.1.0",
+  "author": "lombardoja",
+  "summary": "Send notifications on puppet runs through multiple communication methods.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/lombardoja/notifyme",
+  "project_page": "https://github.com/lombardoja/notifyme",
+  "issues_url": "https://github.com/lombardoja/notifyme/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ]
+}
